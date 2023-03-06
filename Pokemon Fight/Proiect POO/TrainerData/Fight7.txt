@@ -1,0 +1,10 @@
+Stark
+16
+Eevee;Brad de Craciun;Vitamine;Sabiuta;
+Jigglypuff;Bagheta Magica;Vesta;Pelerina;
+Psyduck;Pelerina;Brad de Craciun;Vesta;
+Raphael
+12
+Jigglypuff;Brad de Craciun;Sabiuta;Pelerina;
+Psyduck;Scut;Vesta;Brad de Craciun;
+Pikachu;Pelerina;Vesta;Bagheta Magica;

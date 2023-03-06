@@ -1,0 +1,10 @@
+Hermione
+11
+Meowth;Scut;Vesta;Bagheta Magica;
+Eevee;Vesta;Scut;Pelerina;
+Charmander;Pelerina;Scut;Brad de Craciun;
+Harry
+13
+Snorlax;Pelerina;Scut;Sabiuta;
+Charmander;Pelerina;Vitamine;Brad de Craciun;
+Vulpix;Scut;Sabiuta;Vesta;

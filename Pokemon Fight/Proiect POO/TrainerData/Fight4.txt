@@ -1,0 +1,10 @@
+Sonya
+13
+Psyduck;Bagheta Magica;Vitamine;Vesta;
+Vulpix;Scut;Bagheta Magica;Brad de Craciun;
+Meowth;Vesta;Sabiuta;Brad de Craciun;
+Raphael
+19
+Pikachu;Pelerina;Bagheta Magica;Vitamine;
+Bulbasaur;Brad de Craciun;Pelerina;Sabiuta;
+Psyduck;Brad de Craciun;Bagheta Magica;Vesta;

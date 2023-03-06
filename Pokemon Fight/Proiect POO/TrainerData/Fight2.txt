@@ -1,0 +1,10 @@
+Dave
+16
+Pikachu;Vesta;Vitamine;Bagheta Magica;
+Meowth;Bagheta Magica;Scut;Pelerina;
+Bulbasaur;Sabiuta;Brad de Craciun;Vitamine;
+Miguelle
+20
+Vulpix;Pelerina;Bagheta Magica;Vitamine;
+Meowth;Pelerina;Vesta;Scut;
+Squirtle;Scut;Pelerina;Sabiuta;

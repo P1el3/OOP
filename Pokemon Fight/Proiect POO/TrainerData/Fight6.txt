@@ -1,0 +1,10 @@
+Raphael
+11
+Eevee;Sabiuta;Scut;Vitamine;
+Vulpix;Vesta;Sabiuta;Pelerina;
+Jigglypuff;Brad de Craciun;Sabiuta;Vesta;
+Francois
+18
+Eevee;Scut;Brad de Craciun;Pelerina;
+Snorlax;Pelerina;Vesta;Bagheta Magica;
+Jigglypuff;Bagheta Magica;Brad de Craciun;Vesta;

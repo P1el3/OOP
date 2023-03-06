@@ -1,0 +1,10 @@
+Ron
+14
+Meowth;Brad de Craciun;Vitamine;Sabiuta;
+Psyduck;Bagheta Magica;Scut;Vesta;
+Vulpix;Pelerina;Bagheta Magica;Vesta;
+Martha
+19
+Snorlax;Vitamine;Vesta;Bagheta Magica;
+Pikachu;Brad de Craciun;Bagheta Magica;Scut;
+Jigglypuff;Vesta;Bagheta Magica;Vitamine;

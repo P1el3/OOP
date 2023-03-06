@@ -1,0 +1,10 @@
+Ron
+18
+Pikachu;Bagheta Magica;Scut;Vitamine;
+Snorlax;Scut;Pelerina;Brad de Craciun;
+Bulbasaur;Vitamine;Vesta;Scut;
+Francois
+20
+Psyduck;Sabiuta;Pelerina;Vesta;
+Vulpix;Brad de Craciun;Sabiuta;Vitamine;
+Squirtle;Sabiuta;Vitamine;Brad de Craciun;

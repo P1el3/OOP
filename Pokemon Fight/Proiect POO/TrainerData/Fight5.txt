@@ -1,0 +1,10 @@
+Martha
+18
+Bulbasaur;Pelerina;Vesta;Vitamine;
+Pikachu;Pelerina;Vitamine;Bagheta Magica;
+Jigglypuff;Pelerina;Brad de Craciun;Vesta;
+Ron
+16
+Pikachu;Scut;Vitamine;Brad de Craciun;
+Eevee;Vitamine;Vesta;Bagheta Magica;
+Psyduck;Vitamine;Pelerina;Brad de Craciun;

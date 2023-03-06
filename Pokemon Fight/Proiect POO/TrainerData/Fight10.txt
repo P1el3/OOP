@@ -1,0 +1,10 @@
+Marienne
+13
+Psyduck;Bagheta Magica;Sabiuta;Scut;
+Bulbasaur;Pelerina;Bagheta Magica;Sabiuta;
+Eevee;Vesta;Vitamine;Scut;
+Ron
+20
+Jigglypuff;Pelerina;Vitamine;Brad de Craciun;
+Meowth;Sabiuta;Vitamine;Scut;
+Squirtle;Bagheta Magica;Pelerina;Vesta;

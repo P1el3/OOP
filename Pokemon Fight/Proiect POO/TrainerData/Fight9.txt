@@ -1,0 +1,10 @@
+Raphael
+13
+Meowth;Sabiuta;Scut;Bagheta Magica;
+Snorlax;Sabiuta;Scut;Pelerina;
+Charmander;Pelerina;Brad de Craciun;Scut;
+Raphael
+15
+Charmander;Pelerina;Bagheta Magica;Vesta;
+Bulbasaur;Vesta;Bagheta Magica;Sabiuta;
+Snorlax;Bagheta Magica;Vesta;Pelerina;
